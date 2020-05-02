@@ -80,7 +80,7 @@ if (!gotTheLock) {
       fullscreen: false,
       fullscreenable: false,
       maximizable: true,
-      title: "1Hack | Tutorials For Free, Guides, Articles & Community Forum - A place where everyone can share knowledge with each other",
+      title: "Secuhex | Together Solve!",
       icon: path.join(__dirname, 'img/icon.png'),
       backgroundColor: '#2e2c29',
       webPreferences: {
@@ -90,14 +90,14 @@ if (!gotTheLock) {
     });
     mainWindow.setMenu(null);
     mainWindow.on('page-title-updated', function (e, title) {
-      if (title.startsWith("OneHack.Us")) {
-        mainWindow.setTitle("1Hack | Tutorials For Free, Guides, Articles & Community Forum - A place where everyone can share knowledge with each other");
+      if (title.startsWith("SecuHex.com")) {
+        mainWindow.setTitle("Secuhex | Together Solve!");
         e.preventDefault();
       }
     });
 
     // and load the home page of the app.
-    mainWindow.loadURL('https://onehack.us');
+    mainWindow.loadURL('https://secuhex.com');
 
     //when ready maximize and show. This reduces flashing
 
@@ -208,5 +208,5 @@ function createTray() {
       }
     }
   ]));
-  tray.setToolTip('1Hack - Together WE Learn');
+  tray.setToolTip('Secuhex - Together Solve!');
 }

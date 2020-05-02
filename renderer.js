@@ -23,7 +23,7 @@ ipcRenderer.on('set-theme', (e,theme) => {
             contrast: 90,
             sepia: 10
         }, {
-            url: ["onehack.us"],
+            url: ["secuhex.com"],
             invert: ["header .title a img","#backSvg","#forwardSvg"]
         });
     }else if(theme=="light"){

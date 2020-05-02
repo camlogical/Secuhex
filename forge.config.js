@@ -9,8 +9,8 @@ module.exports = {
     {
       name: "@electron-forge/maker-squirrel",
       config: {
-        name: '1Hack',
-        setupExe:'1HackSetup.exe',
+        name: 'Secuhex',
+        setupExe:'SHSetup.exe',
         setupIcon:'./img/icon.ico'
       }
     },
@@ -18,11 +18,11 @@ module.exports = {
       name: '@electron-forge/maker-deb',
       config: {
           options: {
-              maintainer: 'Ahmed Ayman',
-              homepage: 'https://github.com/ahmedayman4a/1Hack',
+              maintainer: 'Secuhex',
+              homepage: 'https://github.com/camlogical/Secuhex',
               icon:'./img/icon.png',
-              name:'1hack',
-              productName:'1Hack'
+              name:'secuhex',
+              productName:'Secuhex'
             }
       }
     },
@@ -30,10 +30,10 @@ module.exports = {
       name:'@electron-forge/maker-rpm',
       config: {
           options: {
-              maintainer: 'Ahmed Ayman',
-              homepage: 'https://github.com/ahmedayman4a/1Hack',
+              maintainer: 'Secuhex',
+              homepage: 'https://github.com/camlogical/Secuhex',
               icon:'./img/icon.png',
-              productName:'1Hack'
+              productName:'Secuhex'
             }
       }
     },
@@ -41,7 +41,7 @@ module.exports = {
       name: '@electron-forge/maker-dmg',
       config: {
         icon: './img/icon.png',
-        name: '1Hack'
+        name: 'Secuhex'
       }
     }
   ],
@@ -51,8 +51,8 @@ module.exports = {
           config: {
               prerelease: true,
               repository: {
-                  owner:'ahmedayman4a',
-                  name:'1Hack'
+                  owner:'Secuhex',
+                  name:'Secuhex'
               }
           }
       }

@@ -1,16 +1,16 @@
 {
-  "name": "1hack",
-  "productName": "1Hack",
-  "version": "1.1.0",
-  "description": "Together WE Learn!",
+  "name": "Secuhex",
+  "productName": "Secuhex",
+  "version": "0.0.1 beta",
+  "description": "Together Solve!",
   "main": "index.js",
   "darwinDarkModeSupport": "true",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmedayman4a/1Hack.git"
+    "url": "https://github.com/camlogical/Secuhex.git"
   },
   "bugs": {
-    "url": "https://github.com/ahmedayman4a/1Hack/issues"
+    "url": "https://github.com/camlogical/Secuhex/issues"
   },
   "scripts": {
     "start": "electron-forge start",
@@ -21,8 +21,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Ahmed Ayman",
-    "email": "ahmedayman4a77@gmail.com"
+    "name": "Secuhex",
+    "email": "secuhex@gmail.com"
   },
   "license": "MIT",
   "config": {

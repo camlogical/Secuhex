@@ -1,5 +1,5 @@
-# 1Hack
-> Desktop Application for the popular forum onehack.us
+# Secuhex
+> Desktop Application for the popular forum Secuhex.com
 ## What is Secuhex.com ?
 1Hack is forum where everyone can share knowledge with each other. There are alot of tutorials, guides and articles for free. Sometimes there are giveaways ,too :wink:
 ## What is this application then?

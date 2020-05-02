@@ -1,7 +1,7 @@
 # Secuhex
 > Desktop Application for the popular forum Secuhex.com
 ## What is Secuhex.com ?
-1Hack is forum where everyone can share knowledge with each other. There are alot of tutorials, guides and articles for free. Sometimes there are giveaways ,too :wink:
+Secuhex is forum where everyone can share knowledge with each other. There are alot of tutorials, guides and articles for free. Sometimes there are giveaways ,too :wink:
 ## What is this application then?
 It is a way of keeping you connected to the forum. All you have to do is click on the shortcut on your desktop and you get all the new guides , tutorials and tools we developed just for you.
 ## How to install?
@@ -14,7 +14,7 @@ Go to the [releases section](https://github.com/camlogical/Secuhex/releases) and
 ### Redhat based distros (Fedora, CentOS, RHEL, etc.) and openSuSE distro
 Go to the [releases section](https://github.com/camlogical/Secuhex/releases) and download the latest .rpm file.
 ### MacOS x64 (Thanks to Ayush Sharma)
-Go to the [releases section](https://github.com/camlogical/Secuhex/releases) and download the latest 1Hack-darwin-x64.zip file.
+Go to the [releases section](https://github.com/camlogical/Secuhex/releases) and download the latest Secuhex-darwin-x64.zip file.
 )
 ## Any question? issues? recommendations? feature you want added?
 Just create an [issue](https://github.com/camlogical/Secuhex/issues/new/choose) and I will look into it as soon as I can.
